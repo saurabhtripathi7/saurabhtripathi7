@@ -26,7 +26,7 @@ My focus is on systems that handle real load — distributed architectures, vect
 ```
 🏢  Currently   →  Backend AI Engineering Intern @ FlyRank AI (Remote)
 🎓  College     →  B.Tech CS · KIET Delhi-NCR · CGPA 8.02 · 2023–2027
-🏆  LeetCode    →  Max Rating 1942 · Top 3.4% globally
+🏆  LeetCode    →  Max Rating 2015 · Top 2.3% globally
 📍  Location    →  Lucknow, India
 ```
 
@@ -144,8 +144,8 @@ My focus is on systems that handle real load — distributed architectures, vect
 
 ## 🏆 Achievements
 
-- 🥇 **LeetCode Rating 1942** — Top 3.4% globally · Biweekly Contest 185 best rank
-- 🎯 **HackWithInfy 2024** — Shortlisted for SP (Specialist Programmer) track
+- 🥇 **LeetCode Rating 2015** — Top 2.3% globally · Biweekly Contest 185 best rank
+- 🎯 **HackWithInfy 2026** — Shortlisted for SP (Specialist Programmer) track
 - ☁️ **AWS Certified** — Cloud Practitioner (CLF-C02)
 - 🧠 **DSA Instructor** — Mentored 100+ students through placement-focused curriculum
 
